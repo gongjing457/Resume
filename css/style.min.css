@@ -27,7 +27,8 @@ aside li {
 
 li,
 ul {
-    list-style: none
+    list-style: none;
+    font-size:15px;
 }
 
 a {

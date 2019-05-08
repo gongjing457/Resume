@@ -97,10 +97,12 @@ aside a {
 .setWidth2{
     display: inline-block;
     width: 405px;
+    padding-left:10px; 
 }
 .setWidth3{
     display: inline-block;
     width: 80px;
+    padding-left:10px; 
 }
 .setDdRight{
     margin-left: 60px;

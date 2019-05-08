@@ -89,12 +89,14 @@ aside a {
 }
 .setWidth{
     display: inline-block;
-    width: 200px;
+    padding-left:10px;
+     padding-right:10px;
+   /* width: 200px;*/
 }
 
 .setWidth2{
     display: inline-block;
-    width: 205px;
+    width: 405px;
 }
 .setWidth3{
     display: inline-block;

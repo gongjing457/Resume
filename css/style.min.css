@@ -147,12 +147,12 @@ h4 {
 }
 
 .title {
-    margin: 25px 0 20px
+    margin: 10px 0 10px
 }
 
 .title img {
     display: block;
-    margin: 0 auto 15px;
+    margin: 0 auto 10px;
     width: 120px
 }
 
@@ -234,7 +234,7 @@ h2 {
 .main-info dt {
     font-size: 21px;
     color: #00796b;
-    line-height: 55px;
+    line-height: 35px;
     border-bottom: 1px solid #00796b;
     margin: 0 0 25px 12px;
 }
